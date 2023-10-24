@@ -1,0 +1,100 @@
+export const bags = [
+  {
+    id: 1,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb1.jpg",
+    price: "",
+    priceAfterDiscount: 68.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 2,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb2.jpg",
+    price: "",
+    priceAfterDiscount: 53.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 3,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb3.jpg",
+    price: 48.0,
+    priceAfterDiscount: 38.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 4,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb4.jpg",
+    price: 35.0,
+    priceAfterDiscount: 32.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 5,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb5.jpg",
+    price: 35,
+    priceAfterDiscount: 32,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 6,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb6.jpg",
+    price: 35.0,
+    priceAfterDiscount: 32.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 7,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb7.jpg",
+    price: 35.0,
+    priceAfterDiscount: 32.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 8,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb8.jpg",
+    price: 35.0,
+    priceAfterDiscount: 32.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+  {
+    id: 9,
+    image: "https://themes.vsart.me/triablo/images/bags/thumb9.jpg",
+    price: 35.0,
+    priceAfterDiscount: 32.0,
+    name: "Eastpak Padded Pak'R",
+    category: "Backpack",
+  },
+];
+export const categories = [
+  {
+    id: 1,
+    title: "Bags",
+  },
+  {
+    id: 2,
+    title: "Jeans",
+  },
+  {
+    id: 3,
+    title: "Shirts",
+  },
+  {
+    id: 4,
+    title: "Shoes",
+  },
+  {
+    id: 5,
+    title: "Shorts",
+  },
+  {
+    id: 6,
+    title: "T-shirts",
+  },
+];
